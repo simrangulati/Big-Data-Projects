@@ -1,2 +1,5 @@
 Azure based architecture
-Medallion architecture - Bronze Silver and Gold Layer
+Medallion architecture - 
+- Bronze (Raw)
+- Silver (Clean and validated)
+- Gold (analytical insights)
